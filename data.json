@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Bangla Language and Literature",
+    "shortDetail": "Bangla Language and Literature is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(1).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  },
+  {
+    "id": 2,
+    "name": "English Language and Literature",
+    "shortDetail": "English Language and Literature is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(2).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 3490
+  },
+  {
+    "id": 3,
+    "name": "BANGLADESH AFFAIRS",
+    "shortDetail": "BANGLADESH AFFAIRS is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(3).png",
+    "distribution": "30/200",
+    "studyTime": 180,
+    "price": 2490
+  },
+  {
+    "id": 4,
+    "name": "INTERNATIONAL AFFAIRS",
+    "shortDetail": "INTERNATIONAL AFFAIRS is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(4).png",
+    "distribution": "20/200",
+    "studyTime": 120,
+    "price": 2490
+  },
+  {
+    "id": 5,
+    "name": "GEOGRAPHY AND ENVIRONMENT  ",
+    "shortDetail": "GEOGRAPHY, ENVIRONMENT AND DIGESTER MANAGEMENT is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(5).png",
+    "distribution": "10/200",
+    "studyTime": 60,
+    "price": 1490
+  },
+  {
+    "id": 6,
+    "name": "GENERAL SCIENCE",
+    "shortDetail": "GENERAL SCIENCE is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(6).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  },
+  {
+    "id": 7,
+    "name": "INFORMATION TECHNOLOGY",
+    "shortDetail": "COMPUTER AND INFORMATION TECHNOLOGY is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(7).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  },
+  {
+    "id": 8,
+    "name": "MATHEMATICAL REASONING",
+    "shortDetail": "MATHEMATICAL REASONING is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(8).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  },
+  {
+    "id": 9,
+    "name": "Analytical ability",
+    "shortDetail": "Analytical ability is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(9).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  },
+  {
+    "id": 10,
+    "name": "ETHICS, VALUES & GOOD GOVERNANCE",
+    "shortDetail": "ETHICS, VALUES & GOOD GOVERNANCE is very important topic for BCS exam . Study the topic with proper practice and hardwork",
+    "img": "https://techsoros.github.io/money-manager/img/%20(10).png",
+    "distribution": "15/200",
+    "studyTime": 90,
+    "price": 1490
+  }
+]
