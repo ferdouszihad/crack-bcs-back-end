@@ -10,16 +10,10 @@ const courses = require("./data.json");
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
-
-const offers = require("./offer.json");
-const offeredCourse = [];
-for (const offer of offers) {
-  const matchedCourse = courses.find((course) => course.id === offer.id);
-  matchedCourse["discount"] = offer.discount;
-  offeredCourse.push(matchedCourse);
-}
-app.get("/offers", (req, res) => {
-  res.send(offeredCourse);
+app.get("/courses/:cId", (req, res) => {
+  const id = parseInt(req.params.cId);
+  const course = courses.find((course) => course.id === id);
+  res.send(course);
 });
 
 app.listen(port, () => {
